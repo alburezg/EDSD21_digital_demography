@@ -1,4 +1,5 @@
-# Welcome to the wonderful land of :sparkles: Digital Demography
+# Digital Demography (Population Data and Science)
+**European Doctoral School of Demography 2021**
 
 In this repo you will find all the materials needed to complete this week's course, including the syllabus, readings, and the data and instructions for the final assignment. 
 
@@ -18,19 +19,9 @@ We  will  discuss  a  number  of  substantive  topics  related  to  the emergenc
 
 ## Online lectures
 
-All lectures will be on Skype, on the EDSD group. Students are expected to attend all sessions remotely. 
+All lectures will be on Zoom, on the EDSD group. Students are expected to attend all sessions remotely. 
 Please get in touch with the course conveyor in advance if you anticipate issues with this.
 
-
-**[Edit 03 Apr 2020:] Now you can watch a replay of the lectures online**:
-
-[Session 1 - Introduction to Digital Demography](https://youtu.be/EuzTgh-1b38) (30 Mar 2020)
-
-[Session 2 - Crowd-sourced online data](https://youtu.be/UADCQvzXb4U) (31 Mar 2020)
-
-[Session 3 - Crowd-sourced online data](https://youtu.be/gY12RkPESeY) (01 Apr 2020)
-
-[Session 4 - Computational approaches](https://youtu.be/b8s7XFxCEzw) (02 Apr 2020)
 
 Best of luck!
 
