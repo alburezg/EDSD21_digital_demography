@@ -1,5 +1,6 @@
 # Digital Demography (Population Data and Science)
 **European Doctoral School of Demography 2021**
+*March 01-05 2021*
 
 In this repo you will find all the materials needed to complete this week's course, including the syllabus, readings, and the data and instructions for the final assignment. 
 
